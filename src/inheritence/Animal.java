@@ -34,7 +34,7 @@ public class Animal {
     }
 
     public void isEat() {
-        System.out.println(name + " is eating");
+        System.out.println(name + " is consuming");
     }
 
 
