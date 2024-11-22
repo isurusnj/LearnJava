@@ -10,7 +10,7 @@ public class Dog extends Pet{
     }
     @Override
     public String petCanPlay(){
-        return "Dog like to sleep";
+        return "Dog can sleep";
     }
 
     public String getName(){
